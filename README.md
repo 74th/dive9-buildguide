@@ -21,20 +21,23 @@
 
 - トッププレート
 - PCB
-- Kailh Choc スタビライザー x9
+- Kailh Choc スタビライザー x9 https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0500st-00-1
 - 2 足タクトスイッチ
 - 4 足タクトスイッチ
 - ダイオード x14
-- RGB LED SK1812 MINI-E x9
-- ゴム足 x6
+- RGB LED SK1812 MINI-E x9 https://shop.yushakobo.jp/products/sk6812mini-e-10?_pos=2&_sid=a27646374&_ss=r
+- ゴム足 x6 https://www.monotaro.com/p/4891/2387/
 
 ## キットの他に必要なもの
 
-- Kailh Choc v1 スイッチ x13
+リンクは遊舎工房さんのショップページです。
+購入先として載せていますが、Dive9に関する質問は、遊舎工房さんではなく製作者にお問い合わせください。
+
+- Kailh Choc v1 スイッチ x13 https://shop.yushakobo.jp/collections/all-switches/products/pg1350
 - ゲームキー用キーキャップ x9
-- Kailh Choc v1 キーキャップ x4
-- Pro Micro（ATmega32U4）
-- Pro Micro 用コンスルー x2
+- Kailh Choc v1 キーキャップ x4 https://shop.yushakobo.jp/products/pg1350cap-blank
+- Pro Micro（ATmega32U4） x1 https://shop.yushakobo.jp/products/promicro-spring-pinheader
+- Pro Micro 用コンスルー x2 https://shop.yushakobo.jp/products/a01mc-00
 - マイクロ USB ケーブル（Pro Micro と PC の接続用）
 
 ## 組み立てに必要なもの
